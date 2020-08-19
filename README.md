@@ -1,9 +1,13 @@
-## Welcome to my GitHub Page 👋
+# Welcome to my GitHub Page 👋
 My name's Olle Strand. I'm an Engineering Student from Sweden.
-I'm a Software and Web Developer. I focus on creating the system rather than the design. You wouldn't like to see that!
+I'm a Software and Web Developer. I focus on creating the system rather than the design. You wouldn't like to see that!  
+  
+I'm a computer-, game- and cargeek. My sparetime consists of a lot of programming, watching cars and less now than earlier but playing games! Some of my favorite cars are the *BMW M-Series*, *Ferrari* and *McLaren*. When it comes to programming I focus on *C# ASP.NET Core* backend developing, and more recently Stock Exchange robotics.  
+  
+In the future I want to lead a company as the CEO in Web Application Development and Cybersecurity. When it comes to future education my plans are pretty clear to achieve my goals, a degree in [*Master of Science in Engineering, Industrial Engineering and Management*](http://www.lth.se/utbildning/industriell-ekonomi/).
 #### 📫 Contact
 You can contact me on  [<img src="https://image.flaticon.com/icons/svg/54/54215.svg" width="16" height="16"> Email](mailto:ollestrand02@gmail.com) or [![1.2]LinkedIn](https://www.linkedin.com/in/olle-strand-94584a1a5/)
-### ✒️ Current Projects
+#### ✒️ Current Projects
 * School
 * Publishing soon
 ## ⚙️ Technologies
