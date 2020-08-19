@@ -2,7 +2,7 @@
 My name's Olle Strand. I'm an Engineering Student from Sweden.
 I'm a Software and Web Developer. I focus on creating the system rather than the design. You wouldn't like to see that!
 #### Contact
-You can find me on  [![](https://image.flaticon.com/icons/svg/54/54215.svg =16x)Email](mailto:ollestrand02@gmail.com) or [![1.2]LinkedIn](https://www.linkedin.com/in/olle-strand-94584a1a5/)
+You can contact me on  [<img src="https://image.flaticon.com/icons/svg/54/54215.svg" width="16" height="16"> Email](mailto:ollestrand02@gmail.com) or [![1.2]LinkedIn](https://www.linkedin.com/in/olle-strand-94584a1a5/)
 ### Current Project
 * School
 * Hidden
@@ -15,6 +15,7 @@ Statistics isn't quite right. Many of my projects requires a closed source code 
 
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: 
 
 <!--
 **OlleStrand/OlleStrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
