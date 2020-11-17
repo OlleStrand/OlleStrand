@@ -8,8 +8,7 @@ In the future I want to lead a company as the CEO in Web Application Development
 #### 📫 Contact
 You can contact me on  [<img src="https://image.flaticon.com/icons/svg/54/54215.svg" width="16" height="16"> Email](mailto:ollestrand02@gmail.com) or [![1.2]LinkedIn](https://www.linkedin.com/in/olle-strand-94584a1a5/)
 #### ✒️ Current Projects
-* School
-* Publishing soon
+* Autoropa Website
 ## ⚙️ Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Database-MS%20SQL-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.NET&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Framework-.NET%20Core-informational?style=flat&logo=.NET&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Framework-ASP.NET-informational?style=flat&logo=.NET&logoColor=white&color=1a1a1a) ![](https://img.shields.io/badge/Framework-ASP.NET%20Core-informational?style=flat&logo=.NET&logoColor=white&color=1a1a1a)
 ## 📊 My GitHub Statistics
